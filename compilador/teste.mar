@@ -1,0 +1,16 @@
+int x = 10;
+float y = 5.5;
+bool ativo = true;
+
+imprima(x);
+
+se (x > 5) {
+    imprima(y);
+} senao {
+    imprima(0);
+
+}
+enquanto (x > 0) {
+    x = x - 1;
+    imprima(x);
+}
