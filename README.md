@@ -7,3 +7,4 @@ Repositório com os arquivos e scripts utilizados para desenvolver a proposta de
 | Nome  | RA |
 | -------------  | --- |
 | Antonio C. R. Oliveira Russo | RA 12523118842 |
+| Arthur Andrade Rosa | RA 	12883759642 |
